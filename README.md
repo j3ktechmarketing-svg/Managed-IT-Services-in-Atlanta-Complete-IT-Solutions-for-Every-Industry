@@ -14,12 +14,12 @@ In addition, healthcare facilities rely on secure remote access systems that all
 
 ## Key Healthcare IT Services
 
-• HIPAA-compliant managed IT solutions for secure data handling
-• Healthcare cybersecurity monitoring and threat prevention systems
-• Electronic Health Record (EHR) system management and optimization
-• Managed cloud backup and disaster recovery support
-• 24/7 IT infrastructure monitoring for hospitals and clinics
-• Secure remote access solutions for medical professionals
+- HIPAA-compliant managed IT solutions for secure data handling
+- Healthcare cybersecurity monitoring and threat prevention systems
+- Electronic Health Record (EHR) system management and optimization
+- Managed cloud backup and disaster recovery support
+- 24/7 IT infrastructure monitoring for hospitals and clinics
+- Secure remote access solutions for medical professionals
 
 ---
 
